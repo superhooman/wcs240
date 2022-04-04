@@ -13,7 +13,7 @@ ogImage:
 
 ## Video
 
-<iframe width="100%" src="https://www.youtube.com/embed/LE0SGBqkQsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/LE0SGBqkQsI?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Write Up
 
